@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/admin/Desktop/webdev/AIOps-Platform/mlflow/mlruns/881527070207118789/858432c5a4a1447db301d443a6e8996c/artifacts
+end_time: 1785200666026
+entry_point_name: ''
+experiment_id: '881527070207118789'
+lifecycle_stage: active
+run_id: 858432c5a4a1447db301d443a6e8996c
+run_name: merciful-frog-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785200640578
+status: 3
+tags: []
+user_id: admin

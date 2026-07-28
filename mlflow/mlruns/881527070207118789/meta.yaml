@@ -1,0 +1,9 @@
+artifact_location: file:///Users/admin/Desktop/webdev/AIOps-Platform/mlflow/mlruns/881527070207118789
+creation_time: 1785200599629
+effective_trace_archival_retention: null
+experiment_id: '881527070207118789'
+last_update_time: 1785200599629
+lifecycle_stage: active
+name: Customer Churn Prediction
+trace_location: null
+workspace: default

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/admin/Desktop/webdev/AIOps-Platform/mlflow/mlruns/881527070207118789/models/m-79864ce2777743719ef93e2ccfffe892/artifacts
+creation_timestamp: 1785200641968
+experiment_id: '881527070207118789'
+last_updated_timestamp: 1785200666016
+model_id: m-79864ce2777743719ef93e2ccfffe892
+model_type: null
+name: best_model
+source_run_id: 858432c5a4a1447db301d443a6e8996c
+status: 2
+status_message: null

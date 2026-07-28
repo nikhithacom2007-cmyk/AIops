@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/admin/Desktop/webdev/AIOps-Platform/mlflow/mlruns/881527070207118789/e01f7da8e272475da73aa238e01922d9/artifacts
+end_time: 1785200686631
+entry_point_name: ''
+experiment_id: '881527070207118789'
+lifecycle_stage: active
+run_id: e01f7da8e272475da73aa238e01922d9
+run_name: big-cow-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785200677710
+status: 3
+tags: []
+user_id: admin
